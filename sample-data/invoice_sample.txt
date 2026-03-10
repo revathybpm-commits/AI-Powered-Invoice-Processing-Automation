@@ -1,0 +1,4 @@
+Vendor: ABC Supplies
+Invoice Number: INV-2034
+Invoice Date: Feb 10, 2026
+Total Amount: $1,250
