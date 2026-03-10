@@ -29,20 +29,21 @@ This combines **prompt engineering**, **process automation**, and **BPM concepts
 ## Business Value
 
 This system delivers measurable business impact:
-	•	**Reduces manual effort** by up to 70% for invoice processing.
-	•	**Speeds up approvals**: invoices processed in seconds instead of hours.
-	•	**Improves accuracy**: minimizes human errors in data extraction.
-	•	**Scalable operations**: can handle hundreds of invoices daily without extra headcount.
-	•	**Enhanced compliance**: automatic rules ensure approval thresholds are consistently applied.
-
+1. **Reduces manual effort** by up to 70% for invoice processing.
+2. **Speeds up approvals**: invoices processed in seconds instead of hours.
+3. **Improves accuracy**: minimizes human errors in data extraction.
+4. **Scalable operations**: can handle hundreds of invoices daily without extra headcount.
+5. **Enhanced compliance**: automatic rules ensure approval thresholds are consistently applied.
+	
 ⸻
 
 ## Tech & Concepts Used
-	•	**Generative AI** (LLMs for extraction & decisioning)
-	•	**Prompt Engineering**
-	•	**BPM / Process Automation Concepts**
-	•	**JSON Data Handling**
-	•	**Workflow Design**
+
+1. **Generative AI** (LLMs for extraction & decisioning)
+2. **Prompt Engineering**
+3. **BPM / Process Automation Concepts**
+4. **JSON Data Handling**
+5. **Workflow Design**
 
 ----
 ## Workflow
