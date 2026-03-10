@@ -34,8 +34,8 @@ This system delivers measurable business impact:
 3. **Improves accuracy**: minimizes human errors in data extraction.
 4. **Scalable operations**: can handle hundreds of invoices daily without extra headcount.
 5. **Enhanced compliance**: automatic rules ensure approval thresholds are consistently applied.
-	
-⸻
+
+----
 
 ## Tech & Concepts Used
 
@@ -46,6 +46,7 @@ This system delivers measurable business impact:
 5. **Workflow Design**
 
 ----
+
 ## Workflow
 
 ```text
